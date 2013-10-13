@@ -1,7 +1,7 @@
 Authors
 -------
 
-Published as a part of MONUMENTA.LI initiative (http://monumenta.li).
+Published as a part of Monumenta.li initiative (http://monumenta.li).
 
 Franz Milec (http://milec.sk) - concept, design, multimedia
 
