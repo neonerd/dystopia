@@ -10,14 +10,20 @@ Artifacts
 ---------
 
 Big Brother
+
 PopTunez
+
 Mirror
+
 GlobNet
+
 Grindr
+
 Genitals
 
 Environment
 -----------
 
 Music
+
 Texts
