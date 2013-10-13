@@ -1,7 +1,9 @@
 Dystopia
 --------
 
+Dystopia is an intermedia installation simulating an artificial representation of a dystopian household using modern technology and a mix of ideas taken from the greatest anti-utopian works of 20th century made by Franz Milec and Andrej Sykora. 
 
+This repository serves as the hub for linking all the artifacts, works and data used in the installation itself and also provides all the necessary documentation needed in order to host it yourself.
 
 LICENSE: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
